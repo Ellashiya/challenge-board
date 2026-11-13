@@ -1,0 +1,10 @@
+{
+  "name": "challenge-board",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "취업 준비 챌린지 보드",
+  "scripts": {
+    "test": "node --test"
+  }
+}
